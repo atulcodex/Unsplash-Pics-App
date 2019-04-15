@@ -1,6 +1,6 @@
 # Unsplash Pics :rice_scene: App
 
-
+![](https://i.imgur.com/7Yb5w3R.jpg)
 
 > :books: Frontend library used
 > React.js
